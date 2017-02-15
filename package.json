@@ -19,6 +19,7 @@
   },
   "license": "MIT",
   "author": "Alberto Souza <contato@albertosouza.net>",
+  "repository": "wejs/we-plugin-i18n-api",
   "engines": {
     "node": ">=6.0.0"
   },
